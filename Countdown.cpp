@@ -1,7 +1,7 @@
 // File Name: Countdown.cpp 
 // Programmer: Zailyn Tamayo
 
-// Select a date and press "Countdown"
+// Select a date and press "Countdown".
 // Days remaining until the selected date will be displayed.
 
 #using <System.dll> 
